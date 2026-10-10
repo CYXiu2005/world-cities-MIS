@@ -12,4 +12,4 @@ st.write(
 )
 
 if st.button("Go to the app", type="primary"):
-    st.switch_page("app.py")
+    st.switch_page("pages/app.py")
